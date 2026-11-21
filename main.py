@@ -4,7 +4,7 @@ TEXT = (
     "Evening settles over the tide flats, and the water comes back in, "
     "slow as a thought you do not have to finish. Far above, light that "
     "left its star before anyone alive was born is still falling toward "
-    "the sea. It will arrive tonight, and the sea will hold it a while."
+    "the sea. It will arrive tonight, and the sea will hold it till morning."
 )
 
 
